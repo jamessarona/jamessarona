@@ -2,12 +2,11 @@
 - 👀 I’m interested in Mobile, Software, and Web Development
 - 🌱 knowledgeable in;
       1. Flutter/Dart
-      2. PHP, Python - Django, HTML - Javascript 
-      3. Java, C, C#, C++
-      4. Unity
-      5. Perl
-      6. Alternative to Software Development: Excel, Power BI
-      6. IKVMC, ASP.NET
+      2. Delphi/Object Pascal
+      3. PHP, Python - Django, HTML - Javascript 
+      4. Java, C, C#, C++
+      5. Unity
+      6. Perl
       7. MYSQL, Firebase, PostgreSQL, MongoDB, Oracle 
 - 📫 How to reach me;
       1. Email: jacsarona.official@gmail.com
